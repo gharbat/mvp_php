@@ -1,6 +1,6 @@
 <?php
 
-include('functions.php');
+include('functions/functions.php');
 
 $hi = fopen('php://stdin', "r");
 $ho = fopen('php://stdout', "w");
