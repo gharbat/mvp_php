@@ -1,5 +1,5 @@
 <?php
 
-function awesome_function($number) {
+function awesomeFunction($number) {
     return $number*$number;
 }
